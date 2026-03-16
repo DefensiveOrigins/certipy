@@ -19,7 +19,7 @@ setup(
         "pyasn1==0.6.1",
         "dnspython",
         "dsinternals",
-        "pyopenssl==24.0.0",
+        "pyopenssl==26.0.0",
         "requests",
         "httpx",
         "httpx-ntlm",
