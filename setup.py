@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     install_requires=[
         "asn1crypto",
-        "cryptography==41.0.5",
+        "cryptography==46.0.6",
         "impacket",
         "ldap3",
         "pyasn1==0.6.1",
